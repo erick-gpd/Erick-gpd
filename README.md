@@ -1,4 +1,4 @@
-## Olá eu sou o Erick, estudando para ser um Dev Mobile.
+## Olá eu sou o Erick, estudo programação, pois quero aprender mais desta área e fazer dessa profissão uma renda fixa para mim, pois amo trabalhar com tecnologia e gostaria de aprender a resolver problemas dentro de códigos e linguagens de programação 🙂.
 
 <div align="center">
   <a href="https://github.com/erick-gpd">
